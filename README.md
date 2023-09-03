@@ -7,7 +7,6 @@
 ### Links:
 * [Wiki Fiuba Analisis A](http://wiki.foros-fiuba.com.ar/materias:61:10)
 * [Wiki Fiuba Analisis B](http://wiki.foros-fiuba.com.ar/materias:61:12)
-* [Wiki Fiuba Analisis C](http://wiki.foros-fiuba.com.ar/materias:61:13)
 
 ##### [Ver mas Repos Libertarias](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
 ### Deja ⭐ Arriba 
