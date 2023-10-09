@@ -1,5 +1,4 @@
 # Material Analisis Matematico III FIUBA
-###### Drives --> repos.libertarias@gmail.com 
 
 ### Drives:
 * https://drive.google.com/drive/folders/1CjijKSl5a1YUFG75PMeCKNcwQFlwXWtT
